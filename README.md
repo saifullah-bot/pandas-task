@@ -1,7 +1,3 @@
-Absolutely! Here's a concise and informative **README** for using **Pandas in Python**, ideal for a beginner-friendly project or repository:
-
----
-
 # 📊 Pandas in Python
 
 ## Overview
